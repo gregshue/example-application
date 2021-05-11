@@ -8,6 +8,8 @@ applications. Some of the features demonstrated in this example are:
 - [Custom boards][board_porting]
 - Custom [devicetree bindings][bindings]
 - Out-of-tree [drivers][drivers]
+- Custom subsystems
+- Documentation using Doxygen and Sphinx
 - Example CI configuration (using Github Actions)
 
 [board_porting]: https://docs.zephyrproject.org/latest/guides/porting/board_porting.html
