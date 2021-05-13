@@ -9,6 +9,7 @@ applications. Some of the features demonstrated in this example are:
 - Custom [devicetree bindings][bindings]
 - Out-of-tree [drivers][drivers]
 - Custom subsystems
+- Custom samples
 - Documentation using Doxygen and Sphinx
 - Example CI configuration (using Github Actions)
 
